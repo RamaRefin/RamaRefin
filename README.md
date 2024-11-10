@@ -3,7 +3,10 @@
 ![This is my expression when I see an error in the coding](what.webp)
 
 ## MY Abilities 🔥
-![HTML](https://www.svgrepo.com/svg/303205/html-5-logo)
+![HTML](html.svg)
+![HTML](css.svg)
+![HTML](js.svg)
+
 
 
 <!--
