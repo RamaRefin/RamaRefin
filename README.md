@@ -3,9 +3,12 @@
 ![This is my expression when I see an error in the coding](what.webp)
 
 ## MY Abilities 🔥
-![HTML](html.svg)
-![HTML](css.svg)
-![HTML](js.svg)
+![html](html.png)
+![css](css.png)
+![js](js.png)
+![ae](ae.png)
+![ai](ai.png)
+![pr](pr.png)
 
 
 
