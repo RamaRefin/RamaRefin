@@ -5,7 +5,8 @@
 ## MY Abilities 🔥
 ![skill](Untitled-4.png)
 
-
+## CONNECT
+💼 : [Linkedin](https://www.linkedin.com/in/rama-dhaniaji-refin-60b0701ba/)
 
 
 <!--
