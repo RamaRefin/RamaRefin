@@ -1,7 +1,5 @@
 ## SUP MY ESE 👊
 
-![This is my expression when I see an error in the coding](what.gif)
-
 
 <!--
 **RamaRefin/RamaRefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
