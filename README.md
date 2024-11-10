@@ -1,6 +1,6 @@
 ## SUP MY ESE 👊
 
-![This is my expression when I see an error in the coding](what.webp)
+![This is my expression when I see an error in the coding](what.webp) ![This is my expression when I no one error](1.webp)
 
 ## MY Abilities 🔥
 ![skill](Untitled-4.png)
