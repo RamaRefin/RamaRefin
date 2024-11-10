@@ -3,7 +3,7 @@
 ![This is my expression when I see an error in the coding](what.webp)
 
 ## MY Abilities 🔥
-![skill](Untilted-4.png)
+![skill](Untitled-4.png)
 
 
 
