@@ -3,12 +3,8 @@
 ![This is my expression when I see an error in the coding](what.webp)
 
 ## MY Abilities 🔥
-![html](html.png)
-![css](css.png)
-![js](js.png)
-![ae](ae.png)
-![ai](ai.png)
-![pr](pr.png)
+![skill](untilted-4.png)
+
 
 
 
